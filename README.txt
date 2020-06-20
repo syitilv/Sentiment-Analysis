@@ -1,0 +1,3 @@
+The task is to do Text Classification of a collection of Bahasa Indonesia document into several classes. In this assignment, I am trying to classify whether a tweet is talking about social, political, or religious issues.
+
+The dataset is collected by using Twint (Twitter API). I choose to analyze the category from tweets of @tirtoid account, because it’s an online media that actively tweets about social, political, and religious issues, and mostly they use standard Indonesia language in the tweets. The corpus contains 150 latest tweets from @tirtoid that will be labeled with 3 categories: social, political, and religious.
